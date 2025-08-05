@@ -1,0 +1,13 @@
+.parent{
+    position: relative;
+
+}
+.child{
+    border: solid;
+    background-color: blueviolet;
+    width: 350px;
+    height: 300px;
+}
+img{
+    width: 150px;
+}

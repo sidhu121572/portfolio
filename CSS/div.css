@@ -1,0 +1,15 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+div{
+    height: 400px;
+    width: 350px;
+    background-color: red();
+    border: solid;
+    
+}
+#d2{
+    margin-left: 300px;
+    margin-right: 305px;
+}

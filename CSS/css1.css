@@ -1,0 +1,45 @@
+*{
+    text-align: center;
+ color: red;   
+}
+#head{
+    color: red;
+
+}
+.group{
+    color:blue;
+    font-size: 30px;
+}
+h3,h4{
+    text-align: right;
+    font-size: 25px;
+}
+div p{
+    color: yellow;
+    text-align: left;
+}
+div~p{
+    background-color: blueviolet;
+}
+div+p{
+    background-color: chartreuse;
+}
+*{
+    margin: 0px;
+}
+h1{
+    /*border: solid;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 40px;*/
+    margin: 10px 20px 30px 40px;
+    padding: 10px 20px 30px 40px;
+
+}
+a{
+    border: solid;
+    margin: 20px;
+    padding: 40px;
+}
+
